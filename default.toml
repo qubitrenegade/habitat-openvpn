@@ -116,6 +116,9 @@ server-bridge = false
 # documentation for more options.
 # push = ["route 192.168.10.0 255.255.255.0"]
 
+# Override the default client-config-dir setting
+# client-config-dir = /hab/svc/openvpn/data/ccd
+
 # Suppose that you want to enable different firewall access policies
 # for different groups of clients. There are two methods:
 #
